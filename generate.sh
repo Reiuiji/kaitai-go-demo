@@ -1,0 +1,1 @@
+kaitai-struct-compiler -t go --go-package main format/binary_demo.ksy
